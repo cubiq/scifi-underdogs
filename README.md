@@ -1,7 +1,7 @@
 Sci-fi flicks you might have missed
 ===============
 
-Please help maintaining the list.
+Please help maintaining the list. This is just for films that weren't successful at the boxoffice but that are worth anyway.
 
 - **Avalon** (2001) - http://www.imdb.com/title/tt0267287/
 Low budget, terrible acting but some great ideas
