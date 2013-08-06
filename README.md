@@ -1,7 +1,7 @@
 Sci-fi flicks you might have missed
 ===============
 
-Please help maintaining the list. This is just for films that weren't successful at the boxoffice but that are worth anyway.
+Please help maintaining the list. Accepted genres: sci-fi, fantasy, horror, mystery.
 
 - **Avalon** (2001) - http://www.imdb.com/title/tt0267287/
 Low budget, terrible acting but some great ideas
@@ -25,9 +25,6 @@ low budget, nice idea, decent acting
 
 - **Millenium** (1989) - [http://www.imdb.com/title/tt0097883/](http://www.imdb.com/title/tt0097883/)
 
-- **Oldboy** (2003) - http://www.imdb.com/title/tt0364569/
-korean film. Not properly a sci-fi, but good nonetheless
-
 - **Primer** (2004) - http://www.imdb.com/title/tt0390384/
 No budget and an idea. turned out pretty well
 
@@ -42,3 +39,6 @@ John Carpenter before Ghosts of Mars :P
 
 - **Triangle** (2009) - http://www.imdb.com/title/tt1187064/
 Sci-fi, horror, thriller. Starts well, a bit boring at the end
+
+- **Willow** (1988) http://www.imdb.com/title/tt0096446/
+Fantasy
