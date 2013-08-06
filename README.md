@@ -21,6 +21,8 @@ TV Movie based on a Philip K. Dick short story
 - **Ink** (2009) - http://www.imdb.com/title/tt1071804/
 low budget, nice idea, decent acting
 
+- **Logan's Run** (1976) - [http://www.imdb.com/title/tt0074812/](http://www.imdb.com/title/tt0074812/)
+
 - **Millenium** (1989) - [http://www.imdb.com/title/tt0097883/](http://www.imdb.com/title/tt0097883/)
 
 - **Oldboy** (2003) - http://www.imdb.com/title/tt0364569/
