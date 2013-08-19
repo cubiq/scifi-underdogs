@@ -3,6 +3,9 @@ Sci-fi flicks you might have missed
 
 Please help maintaining the list. Accepted genres: sci-fi, fantasy, horror, mystery.
 
+- **Akira** (1988) - http://www.imdb.com/title/tt0094625/
+Great scifi Japanese animation movie
+
 - **Avalon** (2001) - http://www.imdb.com/title/tt0267287/
 Low budget, terrible acting but some great ideas
 
