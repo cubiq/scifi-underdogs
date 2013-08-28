@@ -6,6 +6,7 @@ Please help maintaining the list. Accepted genres: sci-fi, fantasy, horror, myst
 - **Akira** (1988) - http://www.imdb.com/title/tt0094625/ - Great scifi Japanese animation movie
 - **Avalon** (2001) - http://www.imdb.com/title/tt0267287/ - Low budget, terrible acting but some great ideas
 - **Capricorn One** (1977) - http://www.imdb.com/title/tt0077294/
+- **Cargo** (2009) - http://www.imdb.com/title/tt0381940/
 - **Enemy Mine** (1985) - http://www.imdb.com/title/tt0089092/ - A sci-fi classic!
 - **Equilibrium** (2002) - http://www.imdb.com/title/tt0238380/ - One of the best sci-fi despite the very low success at the theatre
 - **Gattaca** (1997) - http://www.imdb.com/title/tt0119177/ - One of the best movies on genetics
