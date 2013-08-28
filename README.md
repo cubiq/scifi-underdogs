@@ -31,6 +31,9 @@ low budget, nice idea, decent acting
 - **Primer** (2004) - http://www.imdb.com/title/tt0390384/
 No budget and an idea. turned out pretty well
 
+- **Resolution** (2012) - http://www.imdb.com/title/tt1977895/
+Horror/paranormal flick
+
 - **Sole Survivor** (1983) - http://www.imdb.com/title/tt0181012/
 Zombies!
 
