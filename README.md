@@ -21,5 +21,6 @@ Please help maintaining the list. Accepted genres: sci-fi, fantasy, horror, myst
 - **Sole Survivor** (1983) - http://www.imdb.com/title/tt0181012/ - Zombies!
 - **Space Truckers** (1996) - http://www.imdb.com/title/tt0120199/ - Just for a laugh
 - **Starman** (1984) - http://www.imdb.com/title/tt0088172/ - John Carpenter before Ghosts of Mars
+- **Surrogates** (2009) - [http://www.imdb.com/title/tt0986263/](http://www.imdb.com/title/tt0986263/)
 - **Triangle** (2009) - http://www.imdb.com/title/tt1187064/ - Sci-fi, horror, thriller. Starts well, a bit boring at the end
 - **Willow** (1988) http://www.imdb.com/title/tt0096446/ - Fantasy
