@@ -19,6 +19,7 @@ Please help maintaining the list. Accepted genres: sci-fi, fantasy, horror, myst
 - **Resolution** (2012) - http://www.imdb.com/title/tt1977895/ - Horror/paranormal flick
 - **Silent Running** (1972) - http://www.imdb.com/title/tt0067756/
 - **Sole Survivor** (1983) - http://www.imdb.com/title/tt0181012/ - Zombies!
+- **Soylent Green** (1973) - [http://www.imdb.com/title/tt0070723/](http://www.imdb.com/title/tt0070723/) - The Ultimate Plan of the Global Elite.
 - **Space Truckers** (1996) - http://www.imdb.com/title/tt0120199/ - Just for a laugh
 - **Starman** (1984) - http://www.imdb.com/title/tt0088172/ - John Carpenter before Ghosts of Mars
 - **Triangle** (2009) - http://www.imdb.com/title/tt1187064/ - Sci-fi, horror, thriller. Starts well, a bit boring at the end
