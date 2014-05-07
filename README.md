@@ -17,6 +17,7 @@ Please help maintaining the list. Accepted genres: sci-fi, fantasy, horror, myst
 - **Outland** (1981) - http://www.imdb.com/title/tt0082869/
 - **Primer** (2004) - http://www.imdb.com/title/tt0390384/ - No budget and an idea. turned out pretty well
 - **Resolution** (2012) - http://www.imdb.com/title/tt1977895/ - Horror/paranormal flick
+- **Roller Ball** (1975) - [http://www.imdb.com/title/tt0073631/](http://www.imdb.com/title/tt0073631/) - In a corporate-controlled future, an ultra-violent sport known as Rollerball represents the world, and one of its powerful athletes is out to defy those who want him out of the game.
 - **Silent Running** (1972) - http://www.imdb.com/title/tt0067756/
 - **Sole Survivor** (1983) - http://www.imdb.com/title/tt0181012/ - Zombies!
 - **Soylent Green** (1973) - [http://www.imdb.com/title/tt0070723/](http://www.imdb.com/title/tt0070723/) - The Ultimate Plan of the Global Elite.
